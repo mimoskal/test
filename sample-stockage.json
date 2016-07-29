@@ -1,5 +1,17 @@
 [
   {
+    "fullname": "Piteå Storgatan 66",
+    "city": "Piteå",
+    "place": "Storgatan 66",
+    "stockage": [
+      { "size" : "XSmall", "instock" : 0},
+      { "size" : "Small", "instock" : 12},
+      { "size" : "Medium", "instock" : 0},
+      { "size" : "Large", "instock" : 1},
+      { "size" : "XLarge", "instock" : 1}
+    ]
+  },
+  {
     "fullname": "Stockholm Forum Nacka",
     "city": "Stockholm",
     "place": "Forum Nacka",
@@ -24,6 +36,42 @@
     ]
   },
   {
+    "fullname": "Stockholm Götgatan30",
+    "city": "Stockholm",
+    "place": "Götgatan30",
+    "stockage": [
+      { "size" : "XSmall", "instock" : 0},
+      { "size" : "Small", "instock" : 0},
+      { "size" : "Medium", "instock" : 0},
+      { "size" : "Large", "instock" : 0},
+      { "size" : "XLarge", "instock" : 0}
+    ]
+  },
+  {
+    "fullname": "Stockholm Haninge Centrum",
+    "city": "Stockholm",
+    "place": "Haninge Centrum",
+    "stockage": [
+      { "size" : "XSmall", "instock" : 1},
+      { "size" : "Small", "instock" : 1},
+      { "size" : "Medium", "instock" : 1},
+      { "size" : "Large", "instock" : 1},
+      { "size" : "XLarge", "instock" : 1}
+    ]
+  },
+  {
+    "fullname": "Stockholm Hötorget",
+    "city": "Stockholm",
+    "place": "Hötorget",
+    "stockage": [
+      { "size" : "XSmall", "instock" : 0},
+      { "size" : "Small", "instock" : 1},
+      { "size" : "Medium", "instock" : 1},
+      { "size" : "Large", "instock" : 1},
+      { "size" : "XLarge", "instock" : 1}
+    ]
+  },
+  {
     "fullname": "Borås Knalleland",
     "city": "Borås",
     "place": "Knalleland",
@@ -31,6 +79,18 @@
       { "size" : "XSmall", "instock" : 4},
       { "size" : "Small", "instock" : 2},
       { "size" : "Medium", "instock" : 0},
+      { "size" : "Large", "instock" : 1},
+      { "size" : "XLarge", "instock" : 1}
+    ]
+  },
+  {
+    "fullname": "Borås Österlånggatan 40",
+    "city": "Borås",
+    "place": "Österlånggatan 40",
+    "stockage": [
+      { "size" : "XSmall", "instock" : 0},
+      { "size" : "Small", "instock" : 2},
+      { "size" : "Medium", "instock" : 15},
       { "size" : "Large", "instock" : 1},
       { "size" : "XLarge", "instock" : 1}
     ]
