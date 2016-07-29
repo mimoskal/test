@@ -1,0 +1,39 @@
+[
+  {
+    "fullname": "Stockholm Forum Nacka",
+    "city": "Stockholm",
+    "place": "Forum Nacka",
+    "stockage": [
+      { "size" : "XSmall", "instock" : 1},
+      { "size" : "Small", "instock" : 3},
+      { "size" : "Medium", "instock" : 0},
+      { "size" : "Large", "instock" : 1},
+      { "size" : "XLarge", "instock" : 0}
+    ]
+  },
+  {
+    "fullname": "Stockholm Farsta Centrum",
+    "city": "Stockholm",
+    "place": "Farsta Centrum",
+    "stockage": [
+      { "size" : "XSmall", "instock" : 0},
+      { "size" : "Small", "instock" : 0},
+      { "size" : "Medium", "instock" : 0},
+      { "size" : "Large", "instock" : 1},
+      { "size" : "XLarge", "instock" : 1}
+    ]
+  },
+  {
+    "fullname": "Borås Knalleland",
+    "city": "Borås",
+    "place": "Knalleland",
+    "stockage": [
+      { "size" : "XSmall", "instock" : 4},
+      { "size" : "Small", "instock" : 2},
+      { "size" : "Medium", "instock" : 0},
+      { "size" : "Large", "instock" : 1},
+      { "size" : "XLarge", "instock" : 1}
+    ]
+  }
+ ]
+
