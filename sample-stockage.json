@@ -3,6 +3,7 @@
     "fullname": "Piteå Storgatan 66",
     "city": "Piteå",
     "place": "Storgatan 66",
+    "address": "1321 Lorem ipsum",
     "stockage": [
       { "size" : "XSmall", "instock" : 0},
       { "size" : "Small", "instock" : 12},
@@ -15,6 +16,7 @@
     "fullname": "Stockholm Forum Nacka",
     "city": "Stockholm",
     "place": "Forum Nacka",
+    "address": "6 dolor sit amet",
     "stockage": [
       { "size" : "XSmall", "instock" : 1},
       { "size" : "Small", "instock" : 3},
@@ -27,6 +29,7 @@
     "fullname": "Stockholm Farsta Centrum",
     "city": "Stockholm",
     "place": "Farsta Centrum",
+    "address": "98 Etiam ullamcorper",
     "stockage": [
       { "size" : "XSmall", "instock" : 0},
       { "size" : "Small", "instock" : 0},
@@ -39,6 +42,7 @@
     "fullname": "Stockholm Götgatan30",
     "city": "Stockholm",
     "place": "Götgatan30",
+    "address": "156 Suspendisse",
     "stockage": [
       { "size" : "XSmall", "instock" : 0},
       { "size" : "Small", "instock" : 0},
@@ -51,6 +55,7 @@
     "fullname": "Stockholm Haninge Centrum",
     "city": "Stockholm",
     "place": "Haninge Centrum",
+    "address": "7734 Pellentesque dui",
     "stockage": [
       { "size" : "XSmall", "instock" : 1},
       { "size" : "Small", "instock" : 1},
@@ -63,6 +68,7 @@
     "fullname": "Stockholm Hötorget",
     "city": "Stockholm",
     "place": "Hötorget",
+    "address": "541 Maecenas malesuada",
     "stockage": [
       { "size" : "XSmall", "instock" : 0},
       { "size" : "Small", "instock" : 1},
@@ -75,6 +81,7 @@
     "fullname": "Borås Knalleland",
     "city": "Borås",
     "place": "Knalleland",
+    "address": "71 Elit lectus felis",
     "stockage": [
       { "size" : "XSmall", "instock" : 4},
       { "size" : "Small", "instock" : 2},
@@ -87,6 +94,7 @@
     "fullname": "Borås Österlånggatan 40",
     "city": "Borås",
     "place": "Österlånggatan 40",
+    "address": "204 Curabitur et ligula",
     "stockage": [
       { "size" : "XSmall", "instock" : 0},
       { "size" : "Small", "instock" : 2},
